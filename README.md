@@ -1,4 +1,4 @@
 saldo-sodexo
 ============
 
-Saldo Sodexo
+A little utility to query sodexo card balance (WIP).

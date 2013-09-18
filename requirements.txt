@@ -1,0 +1,4 @@
+Pillow==2.1.0
+lxml==3.2.3
+pyocr==0.2.1
+requests==1.2.3
